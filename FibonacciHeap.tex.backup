@@ -41,7 +41,14 @@
 \section{Insertar}
 \begin{frame}
   \frametitle{Insertar}
-  \includegraphics[width =0.8 \textwidth]{imagenes/insertar1.png}
+  \begin{columns}[t]
+    \column{0.5\textwidth}
+    \includegraphics[width =1 \textwidth]{imagenes/insertar1.png}
+      
+    \column{0.5\textwidth}
+    \includegraphics[width =1 \textwidth]{imagenes/insertar2.png}
+
+   \end{columns}
   
   
 \end{frame}

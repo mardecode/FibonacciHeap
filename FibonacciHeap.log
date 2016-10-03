@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.2)  2 OCT 2016 21:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.2)  2 OCT 2016 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1286,22 +1286,154 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [3
 
-] <imagenes/insertar1.png, id=122, 376.40625pt x 220.57407pt>
+] <imagenes/insertar1.png, id=132, 376.40625pt x 220.57407pt>
 File: imagenes/insertar1.png Graphic file (type png)
 
 <use imagenes/insertar1.png>
-Package pdftex.def Info: imagenes/insertar1.png used on input line 54.
+Package pdftex.def Info: imagenes/insertar1.png used on input line 53.
 (pdftex.def)             Requested size: 153.64493pt x 90.03879pt.
 
-<imagenes/insertar2.png, id=123, 514.92375pt x 287.57437pt>
+<imagenes/insertar2.png, id=133, 514.92375pt x 287.57437pt>
 File: imagenes/insertar2.png Graphic file (type png)
 
 <use imagenes/insertar2.png>
-Package pdftex.def Info: imagenes/insertar2.png used on input line 54.
+Package pdftex.def Info: imagenes/insertar2.png used on input line 53.
 (pdftex.def)             Requested size: 153.64493pt x 85.80345pt.
  [4
 
- <./imagenes/insertar1.png (PNG copy)> <./imagenes/insertar2.png>]
+ <./imagenes/insertar1.png (PNG copy)> <./imagenes/insertar2.png>] <imagenes/de
+lete1.png, id=163, 535.2497pt x 260.47313pt>
+File: imagenes/delete1.png Graphic file (type png)
+
+<use imagenes/delete1.png>
+Package pdftex.def Info: imagenes/delete1.png used on input line 75.
+(pdftex.def)             Requested size: 153.64493pt x 74.76819pt.
+
+<imagenes/delete2.png, id=164, 566.86781pt x 236.38312pt>
+File: imagenes/delete2.png Graphic file (type png)
+
+<use imagenes/delete2.png>
+Package pdftex.def Info: imagenes/delete2.png used on input line 75.
+(pdftex.def)             Requested size: 153.64493pt x 64.06956pt.
+
+<imagenes/delete3.png, id=165, 535.2497pt x 222.07968pt>
+File: imagenes/delete3.png Graphic file (type png)
+
+<use imagenes/delete3.png>
+Package pdftex.def Info: imagenes/delete3.png used on input line 75.
+(pdftex.def)             Requested size: 153.64493pt x 63.74744pt.
+
+<imagenes/delete4.png, id=166, 537.50812pt x 240.14719pt>
+File: imagenes/delete4.png Graphic file (type png)
+
+<use imagenes/delete4.png>
+Package pdftex.def Info: imagenes/delete4.png used on input line 75.
+(pdftex.def)             Requested size: 153.64493pt x 68.64418pt.
+ [5
+
+ <./imagenes/delete1.png> <./imagenes/delete2.png (PNG copy)> <./imagenes/delet
+e3.png (PNG copy)> <./imagenes/delete4.png (PNG copy)>] <imagenes/delete5.png, 
+id=196, 533.74406pt x 238.64156pt>
+File: imagenes/delete5.png Graphic file (type png)
+
+<use imagenes/delete5.png>
+Package pdftex.def Info: imagenes/delete5.png used on input line 95.
+(pdftex.def)             Requested size: 153.64493pt x 68.69447pt.
+
+<imagenes/delete6.png, id=197, 537.50812pt x 265.74281pt>
+File: imagenes/delete6.png Graphic file (type png)
+
+<use imagenes/delete6.png>
+Package pdftex.def Info: imagenes/delete6.png used on input line 95.
+(pdftex.def)             Requested size: 153.64493pt x 75.9605pt.
+
+<imagenes/delete7.png, id=198, 542.77782pt x 233.37187pt>
+File: imagenes/delete7.png Graphic file (type png)
+
+<use imagenes/delete7.png>
+Package pdftex.def Info: imagenes/delete7.png used on input line 95.
+(pdftex.def)             Requested size: 153.64493pt x 66.05942pt.
+
+<imagenes/delete8.png, id=199, 538.26094pt x 241.65282pt>
+File: imagenes/delete8.png Graphic file (type png)
+
+<use imagenes/delete8.png>
+Package pdftex.def Info: imagenes/delete8.png used on input line 95.
+(pdftex.def)             Requested size: 153.64493pt x 68.9787pt.
+ [6
+
+ <./imagenes/delete5.png (PNG copy)> <./imagenes/delete6.png (PNG copy)> <./ima
+genes/delete7.png (PNG copy)> <./imagenes/delete8.png (PNG copy)>] <imagenes/de
+lete9.png, id=229, 535.2497pt x 264.23718pt>
+File: imagenes/delete9.png Graphic file (type png)
+
+<use imagenes/delete9.png>
+Package pdftex.def Info: imagenes/delete9.png used on input line 117.
+(pdftex.def)             Requested size: 153.64493pt x 75.84865pt.
+
+<imagenes/delete10.png, id=230, 503.63156pt x 329.73187pt>
+File: imagenes/delete10.png Graphic file (type png)
+
+<use imagenes/delete10.png>
+Package pdftex.def Info: imagenes/delete10.png used on input line 117.
+(pdftex.def)             Requested size: 153.64493pt x 100.5907pt.
+
+<imagenes/delete11.png, id=231, 511.9125pt x 324.46219pt>
+File: imagenes/delete11.png Graphic file (type png)
+
+<use imagenes/delete11.png>
+Package pdftex.def Info: imagenes/delete11.png used on input line 117.
+(pdftex.def)             Requested size: 153.64493pt x 97.38396pt.
+
+<imagenes/delete12.png, id=232, 540.51938pt x 317.68687pt>
+File: imagenes/delete12.png Graphic file (type png)
+
+<use imagenes/delete12.png>
+Package pdftex.def Info: imagenes/delete12.png used on input line 117.
+(pdftex.def)             Requested size: 153.64493pt x 90.30417pt.
+
+Overfull \vbox (11.57713pt too high) detected at line 117
+ []
+
+[7
+
+ <./imagenes/delete9.png (PNG copy)> <./imagenes/delete10.png (PNG copy)> <./im
+agenes/delete11.png (PNG copy)> <./imagenes/delete12.png (PNG copy)>]
+<imagenes/delete13.png, id=263, 484.05844pt x 334.24875pt>
+File: imagenes/delete13.png Graphic file (type png)
+
+<use imagenes/delete13.png>
+Package pdftex.def Info: imagenes/delete13.png used on input line 138.
+(pdftex.def)             Requested size: 153.64493pt x 106.09474pt.
+
+<imagenes/delete14.png, id=264, 452.4403pt x 334.24875pt>
+File: imagenes/delete14.png Graphic file (type png)
+
+<use imagenes/delete14.png>
+Package pdftex.def Info: imagenes/delete14.png used on input line 138.
+(pdftex.def)             Requested size: 153.64493pt x 113.50536pt.
+
+<imagenes/delete15.png, id=265, 496.85625pt x 313.17pt>
+File: imagenes/delete15.png Graphic file (type png)
+
+<use imagenes/delete15.png>
+Package pdftex.def Info: imagenes/delete15.png used on input line 138.
+(pdftex.def)             Requested size: 153.64493pt x 96.84276pt.
+
+<imagenes/delete16.png, id=266, 539.01375pt x 301.8778pt>
+File: imagenes/delete16.png Graphic file (type png)
+
+<use imagenes/delete16.png>
+Package pdftex.def Info: imagenes/delete16.png used on input line 138.
+(pdftex.def)             Requested size: 153.64493pt x 86.04988pt.
+
+Overfull \vbox (23.95059pt too high) detected at line 138
+ []
+
+[8
+
+ <./imagenes/delete13.png (PNG copy)> <./imagenes/delete14.png (PNG copy)> <./i
+magenes/delete15.png (PNG copy)> <./imagenes/delete16.png (PNG copy)>]
 \tf@nav=\write6
 \openout6 = `FibonacciHeap.nav'.
 
@@ -1311,35 +1443,36 @@ Package pdftex.def Info: imagenes/insertar2.png used on input line 54.
 \tf@snm=\write8
 \openout8 = `FibonacciHeap.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
- (./FibonacciHeap.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
+
+(./FibonacciHeap.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `FibonacciHeap.out' has not changed.
-(rerunfilecheck)             Checksum: BD214400C3FA5B65EAA2C733CE3898E6;86.
+(rerunfilecheck)             Checksum: 3D8973F500EFCBDAF93885EAD711C776;131.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
- 17114 strings out of 494953
- 326360 string characters out of 6180977
- 395427 words of memory out of 5000000
- 19984 multiletter control sequences out of 15000+600000
+ 17215 strings out of 494953
+ 328333 string characters out of 6180977
+ 396427 words of memory out of 5000000
+ 20060 multiletter control sequences out of 15000+600000
  5452 words of font info for 20 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,19n,59p,393b,553s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on FibonacciHeap.pdf (4 pages, 200892 bytes).
+Output written on FibonacciHeap.pdf (8 pages, 1388237 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
- 11 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 314 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
