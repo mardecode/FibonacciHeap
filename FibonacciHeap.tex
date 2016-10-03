@@ -37,6 +37,32 @@
 \end{itemize}
 \end{frame}
 
+\section{Estructura}
+\begin{frame}
+  \frametitle{Estructura}
+  \begin{itemize}
+    \item Un fibonacci heap es una lista de nodos raíces de árboles min-heap 
+\item Mantiene un puntero al mínimo ( H.min )
+\item Datos que debemos guardar:
+
+	\begin{itemize}
+	 \item  Grado Arbol 
+	  \item Marcado
+	  \item Numero de nodos
+	\end{itemize}
+
+\item A diferencia de un Binomial Tree, donde la consolidación se hace después de cada inserción; la consolidación se evita y solo se realiza después de cada “Extract Min”
+
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Estructura}
+  \includegraphics[width =1 \textwidth]{img/estructura.png}
+\end{frame}
+
 \section{Insertar}
 \begin{frame}
   \frametitle{Insertar}
