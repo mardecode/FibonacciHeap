@@ -58,11 +58,92 @@
   \begin{itemize}
     \item El mínimo nodo de un Fibonacci Heap está dado por el puntero H.min así que podemos encontrarlo en O(1) . 
   \end{itemize}
-
   
-    \includegraphics[width =1 \textwidth]{img/decrease/01.png}
-    
+   \includegraphics[width =1 \textwidth]{img/decrease/01.png}
 
 \end{frame}
+
+\section{DecreaseKey}
+\begin{frame}
+  \frametitle{DecreaseKey}
+  \framesubtitle{Caso 1: Orden del hep correcto}
+  \begin{itemize}
+    \item Decrementar el dato de X
+    \item Actualizar puntero H.min (Si es necesario)
+
+  \end{itemize}
   
+   \includegraphics[width =1 \textwidth]{img/decrease/01.png}
+\end{frame}
+
+
+
+\begin{frame}
+  \frametitle{DecreaseKey}
+  \framesubtitle{Caso 2: Orden del hep incorrecto}
+  \begin{itemize}
+    \item Decrementar el dato de X
+  \end{itemize}
+     \includegraphics[width =1 \textwidth]{img/decrease/02.png}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{DecreaseKey}
+  \framesubtitle{Caso 2: Orden del hep incorrecto}
+  \begin{itemize}
+    \item Cortar árbol en x, agregar a la lista de raíces y desmarcar.
+  \end{itemize}
+     \includegraphics[width =1 \textwidth]{img/decrease/03.png}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{DecreaseKey}
+  \framesubtitle{Caso 2: Orden del hep incorrecto}
+  \begin{itemize}
+    \item Si el padre p de x esta desmarcado (No ha perdido un hijo aun), marcar este; En otro caso cortar p, unirlo a la lista de raíces y desmarcarlo. (Hacer esto recursivamente para todos los ancestros que perdieron un segundo hijo).
+  \end{itemize}
+     \includegraphics[width =1 \textwidth]{img/decrease/04.png}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{DecreaseKey}
+  \framesubtitle{Ejemplo}
+   
+     \begin{columns}[t]
+    \column{0.5\textwidth}
+    \centering
+    \includegraphics[width =1 \textwidth]{img/decrease/05.png} \\
+    \includegraphics[width =1 \textwidth]{img/decrease/06.png}
+      
+    \column{0.5\textwidth}
+    \centering
+    \includegraphics[width =1 \textwidth]{img/decrease/07.png} \\
+    \includegraphics[width =1 \textwidth]{img/decrease/08.png}
+
+   \end{columns}
+   
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{DecreaseKey}
+  \framesubtitle{Ejemplo}
+   
+     \begin{columns}[t]
+    \column{0.5\textwidth}
+    \centering
+    \includegraphics[width =1 \textwidth]{img/decrease/09.png} 
+      
+    \column{0.5\textwidth}
+    \centering
+    \includegraphics[width =1 \textwidth]{img/decrease/10.png} 
+
+   \end{columns}
+   
+\end{frame}
+
+
 \end{document}
